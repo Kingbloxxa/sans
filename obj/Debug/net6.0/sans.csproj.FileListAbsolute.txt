@@ -1,0 +1,15 @@
+/home/student/sans/bin/Debug/net6.0/sans
+/home/student/sans/bin/Debug/net6.0/sans.deps.json
+/home/student/sans/bin/Debug/net6.0/sans.runtimeconfig.json
+/home/student/sans/bin/Debug/net6.0/sans.dll
+/home/student/sans/bin/Debug/net6.0/sans.pdb
+/home/student/sans/obj/Debug/net6.0/sans.csproj.AssemblyReference.cache
+/home/student/sans/obj/Debug/net6.0/sans.GeneratedMSBuildEditorConfig.editorconfig
+/home/student/sans/obj/Debug/net6.0/sans.AssemblyInfoInputs.cache
+/home/student/sans/obj/Debug/net6.0/sans.AssemblyInfo.cs
+/home/student/sans/obj/Debug/net6.0/sans.csproj.CoreCompileInputs.cache
+/home/student/sans/obj/Debug/net6.0/sans.dll
+/home/student/sans/obj/Debug/net6.0/refint/sans.dll
+/home/student/sans/obj/Debug/net6.0/sans.pdb
+/home/student/sans/obj/Debug/net6.0/sans.genruntimeconfig.cache
+/home/student/sans/obj/Debug/net6.0/ref/sans.dll
